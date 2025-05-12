@@ -1,0 +1,7 @@
+streamlit
+requests
+beautifulsoup4
+torch
+torchvision
+pyngrok
+git+https://github.com/ultralytics/yolov5.git
